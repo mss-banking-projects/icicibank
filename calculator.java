@@ -1,3 +1,5 @@
+
+/* Adding Documentation to the file */
 import java.util.Scanner;
 
  public class calculator
